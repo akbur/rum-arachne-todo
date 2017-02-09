@@ -1,0 +1,4 @@
+[{:arachne/name :kris/todoapp
+  :arachne/inits ["config/todoapp.clj"]
+  :arachne/dependencies [:org.arachne-framework/pedestal-assets
+                         :org.arachne-framework/arachne-figwheel]}]
